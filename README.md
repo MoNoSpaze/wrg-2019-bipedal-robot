@@ -5,7 +5,7 @@
   2.  Digital Servo MG995 TowerPro (with Bracket Set) -> 2 ea
   3.  Digital Servo RDS3115 15kg Metal Gear (with Bracket Set) -> 6 ea
   4.  3300mAh 7.4V Li-Po Battery
-  5.  Wireless-X Wireless Remote Control 2.4GHz
+  5.  Wireless-X Wireless Remote Control 2.4GHz    
   **Material**
   1.  Plaswood Sheet
   2.  Junction Box Lid
