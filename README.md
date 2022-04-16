@@ -20,9 +20,9 @@ TH-350 Nattapol Suwansawang
 We don't know about actual angle at "initial state" in each servo we used, even if we set zero every servo.    
     
   ![image](https://user-images.githubusercontent.com/93368509/163682387-76151048-f6ce-42e0-8b5c-883d77158547.png)![image](https://user-images.githubusercontent.com/93368509/163682401-152c340e-2acf-4a60-9490-7466d5a9d985.png)    
-**Figure 1** Possible Position at Servo in "zero position" (left), Possible Position When We Move Servo Freely in Any Position We Want (right)    
+**Figure 1** Possible Position at Servo in "zero position" (a), Possible Position When We Move Servo Freely in Any Position We Want (b)    
     
-Because servo can cause error about gearbox and bracket (mechanical problem) that make servo in "zero position" didn't make our robot stay at "zero position" (at Figure 1 left). We need to set servo freely in any position we want and take note about servo angle when its go in position we want it to(at Figure 1 right).
+Because servo can cause error about gearbox and bracket (mechanical problem) that make servo in "zero position" didn't make our robot stay at "zero position" (at Figure 1 a). We need to set servo freely in any position we want and take note about servo angle when its go in position we want it to(at Figure 1 b).
 **Take note about EVERY servo angle you want to use.**    
 ### 2. Define Walking Posture
 First, Playing Field we use is have pattern according below.
